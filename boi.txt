@@ -1,0 +1,4 @@
+Q1) Remote repository: hosted on websites like GitHub.
+Local repository: stored on your computer.
+
+Q2) Version control allows developers to track changes, collaborate, and manage code safely.
